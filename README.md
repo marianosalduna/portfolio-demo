@@ -63,7 +63,7 @@ The `images/` folder contains assets used across the project, such as product im
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/marianosalduna/portfolio-demo>
+   git clone <https://github.com/marianosalduna/portfolio-demo.git>
    ```
 2. Open `portfolio.html` in your browser to view the main portfolio page.
 
